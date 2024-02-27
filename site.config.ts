@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Nash's Project Blog",
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'itsnash.com',
+  author: 'Nash Bostwick',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: "Nash's Project Showcase",
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  github: 'nashtheflash',
+  linkedin: 'nashbostwick',
+  // twitter: 'transitive_bs',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
